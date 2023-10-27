@@ -1,0 +1,18 @@
+[SURFACE_WATER_SOURCES]
+gibraltar_storage = 3
+cachuma_carryover = 100
+cachuma_nominal_allocation = 1.0
+swp_nominal_allocation = 1.0
+
+
+[DROUGHT_TYPES]
+type = 22
+
+
+[DESAL]
+water_sold = 1
+efficiency = 0.9
+
+
+[DEMAND]
+demand_projection = upper_bound
